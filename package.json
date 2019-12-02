@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositório do Curso de NodeJS da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauciodaniel/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Glaucio Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glauciodaniel/cursonode/issues"
+  },
+  "homepage": "https://github.com/glauciodaniel/cursonode#readme"
+}

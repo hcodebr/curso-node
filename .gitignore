@@ -1,0 +1,6 @@
+#Arquivos e pastas que devem ser ignorados
+
+node_modules/
+videos/ffmpeg/
+*.zip
+*.rar
