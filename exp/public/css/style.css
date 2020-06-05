@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    padding: 0;
+    outline: 0;
+    font-family: arial;
+}
+
+.container {
+    width: 50%;
+    height: 50vh;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img.logo {
+    width: 30%;
+}
